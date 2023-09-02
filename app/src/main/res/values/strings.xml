@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+
+    <string name="heroes_name">Novel name</string>
+    <string name="description">Description</string>
+    <string name="ini_descrip">Deskripsi</string>
+    <string name="search">Search</string>
+    <string name="royhan">Royhan</string>
+    <string name="email">royhankeren12@gmail.com</string>
+    <string-array name="data_name">
+        <item>Bumi Manusia</item>
+        <item>Cantik itu luka</item>
+        <item>Daun yang jatuh tidak pernah membenci angin</item>
+        <item>Dilan 1990</item>
+        <item>Laskar pelangi</item>
+        <item>Negeri 5 Menara</item>
+        <item>Perahu Kertas</item>
+        <item>Rumah kaca</item>
+        <item>Sang Pemimpi</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Buku ini bercerita tentang perjalanan seorang tokoh bernama Minke. Minke adalah salah satu anak pribumi yang sekolah di HBS. Pada masa itu, yang dapat masuk ke sekolah HBS adalah orang-orang keturunan Eropa. Minke adalah seorang pribumi yang pandai, ia sangat pandai menulis. </item>
+        <item>Di akhir masa kolonial, seorang perempuan dipaksa menjadi pelacur. Kehidupan itu terus dijalaninya hingga ia memiliki tiga anak gadis yang kesemuanya cantik. Ketika mengandung anaknya yang keempat, ia berharap anak itu akan lahir buruk rupa. Itulah yang terjadi, meskipun secara ironik ia memberinya nama si Cantik.</item>
+        <item>Tania dan Dede adalah saudara yang tinggal bersama ibunya dalam kesederhanaan. Kemudian mereka bertemu dengan Danar, seorang karyawan dan juga penulis buku anak-anak. Danar begitu baik dan membantu keluarga Tania.Suatu ketika ibu Tania sakit-sakitan. Ternyata ibunya mederita kanker stadium 4 dan meninggal dunia. Lalu Tania dan Dede hidup bersama Danar di rumahnya. Mereka hidup bahagia. Sebelumnya Tania telah mengikuti tes beasiswa luar negeri di Singapura. Dan dia diterima. Setelah lulus sekolah dasar Tania langsung ke Singapura, dia tinggal di asrama. Dia menjadi anak yang berprestasi. Setelah SMP dia juga melanjutkan ke SMA.</item>
+        <item>Pada September 1990, Milea dan keluarganya pindah dari Jakarta ke Bandung. Saat hendak masuk di sebuah SMA, Milea bertemu dengan Dilan sang panglima geng motor. Dilan tak memperkenalkan dirinya, namun dengan sangat percaya diri segera meramal kalau Milea akan naik motor bersamanya dan menjadi pacarnya. Dilan, entah bagaimana caranya, mengetahui segala tentang Milea, bahkan alamat rumah dan nomor teleponnya. Singkat cerita, Dilan merayu-rayu Milea dengan memberikan berbagai hadiah yang bermakna, misalnya buku teka-teki silang yang sudah diisi supaya "tidak perlu pusing karena harus mengisinya."</item>
+        <item>Cerita terjadi di desa Gantung, Belitung Timur. Dimulai ketika sekolah Muhammadiyah terancam akan dibubarkan oleh Depdikbud Sumsel jikalau tidak mencapai siswa baru sejumlah 10 anak. Ketika itu baru 9 anak yang menghadiri upacara pembukaan, akan tetapi tepat ketika Pak Harfan, sang kepala sekolah, hendak berpidato menutup sekolah, Harun dan ibunya datang untuk mendaftarkan diri di sekolah kecil itu.</item>
+        <item>Alif adalah seorang remaja yang hidup di daerah Danau Maninjau dan baru lulus dari Madrasah Tsanawiyah bersama teman sekaligus saingannya Randai. Mereka sama-sama ingin bersaing masuk Institut Teknologi Bandung setelah lulus Sekolah Menengah Atas, tetapi orang tua Alif ingin dia meneruskan pendidikan ke sekolah Islam lagi. Alif awalnya tidak mau sampai dia mendapat pesan dari kerabatnya yang lulusan Pondok Madani, sebuah sekolah Islam di Ponorogo yang lulusannya fasih berbahasa asing dan punya karier di luar negeri. Alif pun tertarik dan menjadi santri di sana.</item>
+        <item>Perahu Kertas mengisahkan pasang surut hubungan dua anak manusia, yaitu Kugy (Maudy Ayunda) dan Keenan (Adipati Dolken). Kugy adalah seorang gadis tomboy, periang, dan yang percaya bahwa dirinya adalah agen Dewa Neptunus. Kugy selalu memiliki "ritual" unik, yaitu menulis setiap curahan hatinya ke selembar kertas, yang lalu dibuatnya menjadi perahu untuk kemudian dihanyutkan ke air. Meskipun sekilas dia gadis periang yang slengean, namun dia memiliki pandangan hidup yang cenderung filosofis.Keenan, pelukis muda berbakat, dipaksa untuk kuliah di Fakultas Ekonomi oleh ayahnya. Bersama dengan sahabat Kugy sejak kecil, Noni (Sylvia Fully R), serta pacar Noni, yakni Eko (Fauzan Smith), yang juga adalah sepupu Keenan, mereka berempat menjadi geng kompak. Dari yang semula saling mengagumi, Kugy dan Keenan diam-diam saling jatuh cinta</item>
+        <item>Jacques Pangemanann yang merupakan seorang komisaris polisi Hindia Belanda berdarah Minahasa dalam memberantas kelompok Si Pitung membuatnya ditugaskan untuk memata-matai aktivitas Minke. Tugas inilah yang membuat Jacques Pangemanann menjadi sosok yang bertanggung jawab dibalik pembuangan Minke ke pulau terpencil di Maluku Utara.</item>
+        <item>Andrea mengenali Arai yang hidup yatim piatu dan harus hidup sebatang kara ("Simpai Keramat"). Karena, ayahnya satu-satunya anggota keluarganya, meninggal dunia. Sedangkan, Andrea dan Arai mengenali Jimbron di Masjid Al-Hikmah. Jimbron diasuh oleh Pendeta Geovanny, keluarga dekat Jimbron yang berbeda agama, karena Jimbron juga anak yatim piatu, sama seperti Arai. Gaya berbicara Jimbron agak sedikit gagap, dan Jimbron terobsesi pada kuda, karena gemar menonton serial televisi "The Lone Ranger". Dari serial televisi tersebut, Jimbron mengagung-agungkan kuda sebagai hewan yang memenangkan perang Badar.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/cantik</item>
+        <item>@drawable/bumi_manusia</item>
+        <item>@drawable/daun</item>
+        <item>@drawable/dilan</item>
+        <item>@drawable/laskar_pelangi</item>
+        <item>@drawable/negeri_5</item>
+        <item>@drawable/perahu_kertas</item>
+        <item>@drawable/rumah_kaca</item>
+        <item>@drawable/sang_pemimpi</item>
+    </integer-array>
+</resources>
